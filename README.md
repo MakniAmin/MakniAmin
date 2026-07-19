@@ -38,31 +38,7 @@ Networks & Telecommunications Engineer passionate about offensive cybersecurity,
 
 ---
 
-<sub>This profile is generated, not hand-typed. See <a href="#how-it-works">How it works</a> below.</sub>
 
-## How it works
-
-Two of the three visuals are **static SVGs** — regenerate them locally whenever your photo, role, or skills change:
-
-```bash
-pip install pillow numpy opencv-python-headless rembg
-
-# 1. Remove background + boost local contrast (one-time per photo)
-python3 scripts/prep_photo.py source-photo.jpg source-prepped.png
-
-# 2. Render the animated "typing" ASCII portrait
-python3 scripts/make_ascii_svg.py source-prepped.png assets/ascii-portrait.svg
-
-# 3. Render the animated info card (edit the ROWS list in the script first)
-python3 scripts/make_info_card.py
-```
-
-The **contribution heatmap** is the only piece that's actually live. `.github/workflows/update-profile-art.yml` runs daily (and on-demand from the Actions tab), scrapes your public contribution calendar straight from `github.com/users/<you>/contributions` — no token or auth required — and re-renders `assets/contrib-heatmap.svg`:
-
-```bash
-pip install -r requirements.txt
-python3 scripts/fetch_contributions.py   # writes data/contributions.json
-python3 scripts/render_heatmap.py        # writes assets/contrib-heatmap.svg
 ```
 
 All three SVGs use one-shot SMIL/CSS animations (play once on page load, then freeze) — GitHub renders these when the SVG is embedded via `<img>`, even though it doesn't execute JavaScript.
