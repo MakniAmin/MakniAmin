@@ -39,6 +39,3 @@ Networks & Telecommunications Engineer passionate about offensive cybersecurity,
 ---
 
 
-```
-
-All three SVGs use one-shot SMIL/CSS animations (play once on page load, then freeze) — GitHub renders these when the SVG is embedded via `<img>`, even though it doesn't execute JavaScript.
