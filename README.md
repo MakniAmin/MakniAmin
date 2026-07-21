@@ -21,14 +21,35 @@
 
 ### About
 
-Networks & Telecommunications Engineer passionate about offensive cybersecurity, applied AI, and full-stack development. Focused on network traffic analysis, anomaly detection through Machine Learning, and infrastructure security. Currently seeking a final-year project in information security.
+Networks and Telecommunications Engineer (ENIG graduate) specializing in DevOps and cloud technologies. Hands-on experience building and deploying full-stack platforms with Docker, AWS, CI/CD, and infrastructure automation. Actively seeking a Junior DevOps or Cloud Engineer role where I can contribute to modern infrastructures and keep growing.
 
 ### Featured Projects
 
-- **Autonomous Cybersecurity Detection & Isolation System** — Real-time IDS detecting Nmap scans, DDoS attacks, and botnets via Random Forest classification, with automated isolation of compromised machines. `Python` `PyShark` `Tkinter` `VirtualBox API`
-- **QoS Optimization for Telecom Services (VoIP/SMS)** — 60% reduction in jitter/packet loss using DiffServ + Linux tc/netem. `Asterisk` `Kannel` `SIP/RTP` `Wireshark`
-- **[Cloud Document Management Platform](https://docup-fr.onrender.com/)** — JWT auth, AWS S3 storage, React + Node/Express microservices. `React` `Node.js` `MongoDB` `AWS S3`
-- **Tennis Tournament Management Application** — Reservation system with real-time notifications. `Laravel` `MySQL` `Bootstrap`
+- 🚀 Synthetic Web Monitoring Platform
+- Automated browser workflows via Playwright with AI-assisted recording
+- Distributed execution with Redis + BullMQ (3 workers, statistical aggregation)
+- Real-time performance metrics in InfluxDB with Grafana dashboards
+- AI conversational assistant using Mistral AI + MCP
+- Full React/Vite interface for workflow management and scheduling
+- Production deployment on AWS EC2 with Docker Compose + Nginx
+- TypeScript, Playwright, BullMQ, Redis, InfluxDB, Grafana, React, Docker, AWS
+
+🛡️ Autonomous Cybersecurity Detection & Isolation System
+- Real-time IDS for Nmap scans, DDoS, botnets via Random Forest
+- Automated VM isolation using VirtualBox API
+- Python, PyShark, Tkinter, Scikit-learn
+
+📡 QoS Optimization for Telecom Services (VoIP/SMS)
+- 60% jitter/packet loss reduction using DiffServ + tc/netem
+- Asterisk, Kannel, SIP/RTP, Wireshark
+
+☁️ Cloud Document Management Platform
+- JWT auth, AWS S3 storage, React + Node/Express microservices
+- React, Node.js, MongoDB, AWS S3
+
+🎾 Tennis Tournament Management Application
+- Reservation system with real-time notifications
+- Laravel, MySQL, Bootstrap
 
 ### Education & Certifications
 
