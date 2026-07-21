@@ -25,7 +25,7 @@ Networks and Telecommunications Engineer (ENIG graduate) specializing in DevOps 
 
 ### Featured Projects
 
-- 🚀 Synthetic Web Monitoring Platform
+🚀 Synthetic Web Monitoring Platform
 - Automated browser workflows via Playwright with AI-assisted recording
 - Distributed execution with Redis + BullMQ (3 workers, statistical aggregation)
 - Real-time performance metrics in InfluxDB with Grafana dashboards
