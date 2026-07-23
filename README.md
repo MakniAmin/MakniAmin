@@ -21,7 +21,7 @@
 
 ### About
 
-Networks and Telecommunications Engineer (ENIG graduate) specializing in DevOps and cloud technologies. Hands-on experience building and deploying full-stack platforms with Docker, AWS, CI/CD, and infrastructure automation. Actively seeking a Junior DevOps or Cloud Engineer role where I can contribute to modern infrastructures and keep growing.
+Networks and Telecommunications Engineer (ENIG graduate) passionate about DevOps, Cybersecurity, and Cloud Infrastructure. Experienced in Linux administration, Docker, AWS, CI/CD, infrastructure automation, and full-stack development through internships and personal projects. I enjoy building secure, scalable, and reliable systems while continuously learning modern infrastructure and security technologies.
 
 ### Featured Projects
 
