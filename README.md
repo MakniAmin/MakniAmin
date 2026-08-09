@@ -21,7 +21,10 @@
 
 ### About
 
-Networks and Telecommunications Engineer (ENIG graduate) passionate about DevOps, Cybersecurity, and Cloud Infrastructure. Experienced in Linux administration, Docker, AWS, CI/CD, infrastructure automation, and full-stack development through internships and personal projects. I enjoy building secure, scalable, and reliable systems while continuously learning modern infrastructure and security technologies.
+Networks and Telecommunications Engineering student with hands-on experience across DevOps, cloud infrastructure, and
+software testing. Built and deployed distributed systems using Docker, AWS, and CI/CD pipelines through my end-of-
+studies project, alongside test automation work covering embedded/protocol-level validation. Motivated to bring a rigorous,
+automation-driven approach to software engineering and quality assurance.
 
 ### Featured Projects
 
