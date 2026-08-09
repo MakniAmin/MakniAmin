@@ -28,6 +28,12 @@ automation-driven approach to software engineering and quality assurance.
 
 ### Featured Projects
 
+🚗 CAN Bus Validation Suite (https://github.com/MakniAmin/CAN-BUS-VALIDATION-SUITE)
+- Test framework for automotive CAN signal validation: boundary/range testing, fault injection, cross-signal plausibility checks
+- Message timing validation to verify signals arrive within their expected period
+- Config-driven test structure (YAML-based signal definitions), 29 automated tests with GitHub Actions CI
+- Python, python-can, pytest, GitHub Actions
+  
 🚀 Synthetic Web Monitoring Platform
 - Automated browser workflows via Playwright with AI-assisted recording
 - Distributed execution with Redis + BullMQ (3 workers, statistical aggregation)
@@ -57,8 +63,10 @@ automation-driven approach to software engineering and quality assurance.
 ### Education & Certifications
 
 - École Nationale d'Ingénieurs de Gabès (ENIG) — Engineering Degree, Communications & Networks *(2023–Present)*
+- NVIDIA — Building LLM Applications With Prompt Engineering, Certificate of Competency
 - Cisco Networking Academy — CCNA 1 & CCNA 2
 - Oracle — OCI Data Certified Foundations Associate, OCI AI Foundations Associate
+
 
 ---
 
