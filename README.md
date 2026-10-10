@@ -28,6 +28,14 @@ automation-driven approach to software engineering and quality assurance.
 
 ### Featured Projects
 
+🚀 Self-Healing Kubernetes Cluster with Chaos Testing
+  Designed and deployed a multi-node Kubernetes cluster using Kind to demonstrate automated application recovery under failure conditions. Integrated Prometheus and Grafana for observability      and performed controlled pod deletion, node failure, application health, and network chaos experiments. Recorded a **7-second pod deletion-to-readiness recovery time** in a controlled test      and improved node-failure recovery from 359 seconds to 115 seconds through optimization.  
+**Tech Stack:** Kubernetes, Kind, Helm, Docker, Prometheus, Grafana, Linux, Chaos Testing
+
+🐧 Linux Server Administration & Hardening
+  Built and secured an Ubuntu server from scratch in VirtualBox, applying practical Linux system administration and infrastructure security techniques. Configured non-root administration, SSH     key-based authentication, UFW firewall rules, Fail2ban, Nginx, systemd services, HTTPS for a learning environment, and basic monitoring. Documented the configuration and hardening steps to      create a reproducible, hands-on infrastructure project.  
+**Tech Stack:** Linux, Ubuntu, Bash, SSH, UFW, Fail2ban, Nginx, systemd, VirtualBox
+
 🚗 CAN Bus Validation Suite (https://github.com/MakniAmin/CAN-BUS-VALIDATION-SUITE)
 - Test framework for automotive CAN signal validation: boundary/range testing, fault injection, cross-signal plausibility checks
 - Message timing validation to verify signals arrive within their expected period
