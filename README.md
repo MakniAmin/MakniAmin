@@ -28,13 +28,19 @@ automation-driven approach to software engineering and quality assurance.
 
 ### Featured Projects
 
-🚀 Self-Healing Kubernetes Cluster with Chaos Testing
-  Designed and deployed a multi-node Kubernetes cluster using Kind to demonstrate automated application recovery under failure conditions. Integrated Prometheus and Grafana for observability      and performed controlled pod deletion, node failure, application health, and network chaos experiments. Recorded a **7-second pod deletion-to-readiness recovery time** in a controlled test      and improved node-failure recovery from 359 seconds to 115 seconds through optimization.  
-**Tech Stack:** Kubernetes, Kind, Helm, Docker, Prometheus, Grafana, Linux, Chaos Testing
+☸️ Self-Healing Kubernetes Cluster with Chaos Testing (https://github.com/MakniAmin/self-healing-k8s)
+- Multi-node Kubernetes cluster deployed with Kind, running a replicated application with automated pod recovery
+- Chaos experiments covering pod deletion, node failures, application health failures, and network conditions
+- Prometheus and Grafana monitoring for cluster health, pod readiness, replica availability, and container restarts
+- 7-second pod deletion-to-readiness recovery in a controlled test; node-failure recovery improved from 359s to 115s through optimization
+- Kubernetes, Kind, Helm, Docker, Prometheus, Grafana, Linux, Chaos Testing
 
 🐧 Linux Server Administration & Hardening
-  Built and secured an Ubuntu server from scratch in VirtualBox, applying practical Linux system administration and infrastructure security techniques. Configured non-root administration, SSH     key-based authentication, UFW firewall rules, Fail2ban, Nginx, systemd services, HTTPS for a learning environment, and basic monitoring. Documented the configuration and hardening steps to      create a reproducible, hands-on infrastructure project.  
-**Tech Stack:** Linux, Ubuntu, Bash, SSH, UFW, Fail2ban, Nginx, systemd, VirtualBox
+- Built an Ubuntu server from scratch in VirtualBox with a dedicated non-root user and SSH key-based authentication
+- Configured UFW firewall rules and Fail2ban to strengthen host security
+- Deployed Nginx, configured systemd services, and enabled HTTPS in a learning environment
+- Documented server setup, security hardening, and administration procedures
+- Linux, Ubuntu, Bash, SSH, UFW, Fail2ban, Nginx, systemd, VirtualBox
 
 🚗 CAN Bus Validation Suite (https://github.com/MakniAmin/CAN-BUS-VALIDATION-SUITE)
 - Test framework for automotive CAN signal validation: boundary/range testing, fault injection, cross-signal plausibility checks
